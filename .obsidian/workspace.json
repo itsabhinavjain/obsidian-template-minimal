@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "74838d0a3dd83b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bcb941cdb608643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461270b2c16bd2ea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7627e9987d9ad51",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5220225b63a127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc445c94fc46dba7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c10db502b4c771fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c24d1c27f541347",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5024719238281
+  },
+  "right": {
+    "id": "879b9c7d8998aac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fb0a6c8876db10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de9cac1dd1accc90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db0ff7026841d6b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d53fa8dd3c01d7e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5bd05a4f2e4d99a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8b0c7530ff915f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1170fc989c3755d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": true,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "461270b2c16bd2ea",
+  "lastOpenFiles": [
+    "9_templates/general-note-template.md",
+    "README.md",
+    "9_templates",
+    "9_scripts",
+    "9_assets",
+    "templates/general-note-template.md",
+    "scripts",
+    "assets",
+    "99 00 Obsidian/Obsidian - Mechanics.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/global_hub_list_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/topic_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/person_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/meeting_professional_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/meeting_general_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/contact_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/company_template.md",
+    "03 00 Global Notes/08 Meetings/2024-03-01_General-Meeting_asdfasfa.md",
+    "03 00 Global Notes/08 Meetings/2024-03-01_Professional-Meeting_asdfasf.md",
+    "03 00 Global Notes/07 Contacts/@asdfasf.md",
+    "03 00 Global Notes/09 People/@asdfasf.md",
+    "03 00 Global Notes/06 Companies/Company - asdf.md",
+    "03 00 Global Notes/05 Topics/Topic - asdfasf.md",
+    "99 00 Obsidian/asdfa.md",
+    "03 00 Global Notes/01 Global Hubs/List of asdfa.md",
+    "Logs.md",
+    "03 00 Global Notes/04 Special Notes",
+    "03 00 Global Notes/03 General Drawings",
+    "02 02 Global Notes/01 Global Hubs/List of Tasks.md",
+    "03 03 Subjects and Resources/04 Consumer Insights and Research/List of Customer Segments - Consumer Segments - Personas.md",
+    "02 02 Global Notes/01 Global Hubs/List of Segmentation Axis - Data Points for Profiling and Targetting.md",
+    "02 02 Global Notes/03 Special Notes/Framework - Startup - Venture Development Framework.md",
+    "01 00 Core Journal/monthly/2024-02.md",
+    "02 02 Global Notes/99 Database/contacts/@Akash - Ankur friend - TCN.md",
+    "design_and_prototyping_resources",
+    "99_assets/01 default/Docker Container Lifecycle.png",
+    "03 01 Projects/Regisedge/product - operating systems",
+    "03 01 Projects/Regisedge/product - chatbots",
+    "99_assets/01 default/Pasted Image 20240219111311_098.jpg",
+    "99 00 Obsidian/excalidraw-scripts/Downloaded/Mindmap connector.svg",
+    "99 00 Obsidian/excalidraw-scripts/Downloaded/Elbow connectors.svg",
+    "99_assets/01 default/Pasted image 20230901102627.png",
+    "99_assets/01 default/Pasted Image 20240215093751_205.png",
+    "99_assets/01 default/Theme research - Blueprint - AI Generated Analytics - AI Business Operating Systems.png",
+    "Untitled.canvas",
+    "03 01 Projects/Regisedge/clients/RE - Client - Subal1.0/_notes/Farmer lifecycle.png",
+    "03 03 Skills and Resources - Cap Buckets/03 Product Management/notes/Product Blueprint - Merchant systems - research/Swiggy web screenshots/Screenshot 2019-04-25 at 6.33.08 PM.png",
+    "03 03 Skills and Resources - Cap Buckets/03 Product Management/notes/Product Blueprint - Merchant systems - research/Swiggy web screenshots/Screenshot 2019-04-25 at 6.35.22 PM.png"
+  ]
+}
