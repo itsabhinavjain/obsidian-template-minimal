@@ -5,14 +5,16 @@
       "name": "General Note",
       "type": "Template",
       "command": false,
-      "templatePath": "9_templates/general_note_template",
+      "templatePath": "9_templates/general_note_template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "/"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false

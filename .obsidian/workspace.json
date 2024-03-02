@@ -11,8 +11,13 @@
             "id": "461270b2c16bd2ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -156,12 +167,13 @@
       "command-palette:Open command palette": true,
       "templates:Insert template": true,
       "workspaces:Manage workspace layouts": false,
-      "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "461270b2c16bd2ea",
   "lastOpenFiles": [
+    "9_templates/general_note_template.md",
+    "asdfaf.md",
     "9_templates/general-note-template.md",
     "README.md",
     "9_templates",
@@ -193,8 +205,6 @@
     "03 03 Subjects and Resources/04 Consumer Insights and Research/List of Customer Segments - Consumer Segments - Personas.md",
     "02 02 Global Notes/01 Global Hubs/List of Segmentation Axis - Data Points for Profiling and Targetting.md",
     "02 02 Global Notes/03 Special Notes/Framework - Startup - Venture Development Framework.md",
-    "01 00 Core Journal/monthly/2024-02.md",
-    "02 02 Global Notes/99 Database/contacts/@Akash - Ankur friend - TCN.md",
     "design_and_prototyping_resources",
     "99_assets/01 default/Docker Container Lifecycle.png",
     "03 01 Projects/Regisedge/product - operating systems",
